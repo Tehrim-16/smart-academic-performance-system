@@ -62,7 +62,7 @@ This ensures students do not feel monitored or judged while still enabling teach
 ## Prototype
 A high-fidelity UI/UX prototype has been created using Figma to demonstrate the complete workflow.
 
-🔗 🔗 **Figma Prototype Link:**  
+🔗 **Figma Prototype Link:**  
 https://www.figma.com/make/WNQbTuUpEYiShbLCrhsQtZ/Smart-Academic-Performance-System?fullscreen=1&t=SURrDR2SGbIMFksw-1
 
 🎥 **Demo Video:**  
