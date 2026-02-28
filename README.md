@@ -85,7 +85,23 @@ The demo video has been submitted separately through the hackathon submission fo
 - Frontend (Planned): HTML, CSS, JavaScript  
 - Logic Modeling: JavaScript & Python  
 - Version Control: Git & GitHub  
+---
+## 📸 Project Screenshots
 
+### Landing Page
+![Landing Page](prototype/landing-page.png)
+
+### Student Dashboard
+![Student Dashboard](prototype/student-dashboard.png)
+
+### Forgetting Curve Analysis
+![Forgetting Curve](prototype/forgetting-curve.png)
+
+### Teacher Dashboard
+![Teacher Dashboard](prototype/teacher-dashboard.png)
+
+### Anonymous Class-Level Analytics
+![Anonymous Analytics](prototype/anonymous-analytics.png)
 ---
 
 ## Impact
